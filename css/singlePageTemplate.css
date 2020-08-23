@@ -194,6 +194,7 @@ footer .footer_column h3 {
 footer .footer_column p {
 	color: #717070;
 	background-color: #FFFFFF;
+	text-align: center;
 }
 .cards {
 	width: 100%;
